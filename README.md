@@ -1,16 +1,36 @@
-## Hi there 👋
+# ☀️ KühnSolar GmbH
 
-<!--
-**KuehnSolar/KuehnSolar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Willkommen auf dem offiziellen GitHub-Profil der **KühnSolar GmbH** aus Horneburg.
 
-Here are some ideas to get you started:
+Wir entwickeln moderne Lösungen für die Energiewende und unterstützen Privatkunden, Unternehmen sowie öffentliche Einrichtungen bei der Planung, Umsetzung und Optimierung von Photovoltaik- und Energiesystemen.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Über uns
+
+Die KühnSolar GmbH steht für innovative und nachhaltige Energielösungen. Unser Fokus liegt auf:
+
+- ☀️ Photovoltaikanlagen
+- 🔋 Batteriespeichersystemen
+- ⚡ Energiemanagement
+- 🚗 Ladeinfrastruktur für Elektrofahrzeuge
+- 🏡 Smart Home & Energieoptimierung
+- 📊 Monitoring- und Auswertungssystemen
+
+Mit modernster Technologie schaffen wir nachhaltige Lösungen für eine unabhängige Energieversorgung.
+
+---
+
+## 🌱 Unsere Mission
+
+Wir glauben an eine nachhaltige Zukunft, in der erneuerbare Energien eine zentrale Rolle spielen.
+
+Unser Ziel ist es, innovative Technologien einzusetzen, um:
+
+- Energiekosten zu senken
+- Nachhaltige Digitalisierung voranzutreiben
+
+---
+
+
+### ☀️ Gemeinsam die Energiewende gestalten.

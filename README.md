@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/KuehnSolar/.github/main/profile/banner.png" alt="KühnSolar Banner" width="100%">
+</p>
+
 # ☀️ KühnSolar GmbH
 
 Willkommen auf dem offiziellen GitHub-Profil der **KühnSolar GmbH** aus Horneburg.

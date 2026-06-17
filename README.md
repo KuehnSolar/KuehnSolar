@@ -1,40 +1,72 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/KuehnSolar/.github/main/profile/banner.png" alt="KühnSolar Banner" width="100%">
-</p>
+<div align="center">
 
 # ☀️ KühnSolar GmbH
 
-Willkommen auf dem offiziellen GitHub-Profil der **KühnSolar GmbH** aus Horneburg.
+### Nachhaltige Energie. Intelligente Systeme. Digitale Zukunft.
 
-Wir entwickeln moderne Lösungen für die Energiewende und unterstützen Privatkunden, Unternehmen sowie öffentliche Einrichtungen bei der Planung, Umsetzung und Optimierung von Photovoltaik- und Energiesystemen.
+<p>
+  <img src="https://img.shields.io/badge/Standort-Horneburg-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Photovoltaik-Spezialist-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Made%20in-Germany-darkred?style=for-the-badge" />
+</p>
 
----
+<br>
 
-## 🚀 Über uns
+> Wir entwickeln innovative Energielösungen für eine nachhaltige Zukunft – von modernen Photovoltaikanlagen über intelligente Energiemanagementsysteme bis hin zur Digitalisierung von Energieprozessen.
 
-Die KühnSolar GmbH steht für innovative und nachhaltige Energielösungen. Unser Fokus liegt auf:
-
-- ☀️ Photovoltaikanlagen
-- 🔋 Batteriespeichersystemen
-- ⚡ Energiemanagement
-- 🚗 Ladeinfrastruktur für Elektrofahrzeuge
-- 🏡 Smart Home & Energieoptimierung
-- 📊 Monitoring- und Auswertungssystemen
-
-Mit modernster Technologie schaffen wir nachhaltige Lösungen für eine unabhängige Energieversorgung.
+</div>
 
 ---
 
-## 🌱 Unsere Mission
+## 🚀 Wer wir sind
 
-Wir glauben an eine nachhaltige Zukunft, in der erneuerbare Energien eine zentrale Rolle spielen.
+Die **KühnSolar GmbH** steht für moderne Energieversorgung und technische Innovation.
 
-Unser Ziel ist es, innovative Technologien einzusetzen, um:
+Unser Ziel ist es, Unternehmen und Privathaushalte dabei zu unterstützen, ihre Energie effizienter, nachhaltiger und unabhängiger zu nutzen.
 
-- Energiekosten zu senken
-- Nachhaltige Digitalisierung voranzutreiben
+### Unsere Kernbereiche
+
+☀️ **Photovoltaik-Anlagen**
+
+🔋 **Batteriespeicher & Notstromlösungen**
+
+⚡ **Energiemanagement-Systeme**
+
+🚗 **E-Mobility & Wallboxen**
+
+🏡 **Smart Home Integration**
+
+📊 **Monitoring & Datenanalyse**
+
+🌐 **Automatisierung & Digitalisierung**
 
 ---
 
+## 🌱 Unsere Vision
 
-### ☀️ Gemeinsam die Energiewende gestalten.
+Wir glauben an eine Zukunft, in der Energie:
+
+* sauber erzeugt wird
+* intelligent genutzt wird
+* lokal gespeichert wird
+* digital gesteuert wird
+
+Durch innovative Technologien schaffen wir Lösungen für mehr Energieunabhängigkeit und langfristige Nachhaltigkeit.
+
+---
+
+<div align="center">
+
+## ❤️ Unsere Mission
+
+### Die Energiewende aktiv gestalten.
+
+Weniger Emissionen. Mehr Unabhängigkeit. Mehr Zukunft.
+
+---
+
+### KühnSolar GmbH
+
+**Horneburg · Niedersachsen · Deutschland**
+
+</div>
